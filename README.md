@@ -48,8 +48,9 @@ iosbridge.send(NAME, DATA, function(name, data, response){
 ```
 
 NAME(string): 웹과 아이폰 연결 키
+
 DATA(string, array, json...): 키값 value
-  - EX) ['a', 'b', 'c'], ["k1":"v1", "k2":"v2"] 
+EX) ['a', 'b', 'c'], ["k1":"v1", "k2":"v2"] 
 
 
 
