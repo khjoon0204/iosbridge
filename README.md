@@ -5,7 +5,7 @@
 
 
 
-# 필요한 것들
+## 필요한 것들
 
 [jQuery](https://jquery.com/)
 
@@ -15,7 +15,7 @@
 
 
 
-# 설치
+## 설치
 
 ```javascript
 ...
@@ -26,7 +26,7 @@
 
 
 
-# 사용법
+## 사용법
 
 ```javascript
 
@@ -50,7 +50,7 @@ iosbridge.send(NAME, DATA, function(name, data, response){
 NAME(string): 웹과 아이폰 연결 키
 
 DATA(string, array, json...): 키값 value
-EX) ['a', 'b', 'c'], ["k1":"v1", "k2":"v2"] 
+> EX) ['a', 'b', 'c'], ["k1":"v1", "k2":"v2"] 
 
 
 
