@@ -2,23 +2,15 @@
 
 아이폰 - 웹 bridge javascript module  
 [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) 이용
+<br />
+<br />
 
 ## 필요한 것들
 
 [jQuery](https://jquery.com/)
 
-
-
-  
-    
-      
-      
-
-
-
-
-
-
+<br />
+<br />
 
 ## 설치
 
@@ -28,7 +20,8 @@
 <script src="iosbridge.js"></script>
 ...
 ```
-
+<br />
+<br />
 
 
 ## 사용법
