@@ -4,7 +4,8 @@
 
 
 
-### 필요한 것들
+
+# 필요한 것들
 
 [jQuery](https://jquery.com/)
 
@@ -13,19 +14,22 @@
 
 
 
-### 설치
 
-'''
+# 설치
+
+```javascript
 ...
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="iosbridge.js"></script>
 ...
-'''
+```
 
 
-### 사용법
 
-'''javascript
+# 사용법
+
+```javascript
+
 // 아이폰에서 메세지 받을때
 $(iosbridge).on('ready', function(){
 
@@ -40,7 +44,8 @@ $(iosbridge).on('ready', function(){
 iosbridge.send(NAME, DATA, function(name, data, response){
   alert('WEB: send callback data = ' + data);
 });
-'''
+
+```
 
 NAME(string): 웹과 아이폰 연결 키
 DATA(string, array, json...): 키값 value
