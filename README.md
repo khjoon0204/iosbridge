@@ -1,16 +1,21 @@
 # iosbridge
 
-아이폰 - 웹 bridge javascript module
-
-
-
+아이폰 - 웹 bridge javascript module  
+[WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) 이용
 
 ## 필요한 것들
 
 [jQuery](https://jquery.com/)
 
 
-[WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+
+  
+    
+      
+      
+
+
+
 
 
 
